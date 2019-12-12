@@ -24,11 +24,8 @@
 #photos{
 	font-size: 20pt;
 	color: #7a525a;
-	max-width: 100em;
 	width: 100%;
 	text-align: center;
-	margin-left: 10vw;
-	margin-right: 10vw;
 	margin-top: 50px;
 	border-color: #ffd240;
 	border-style: solid;
@@ -47,8 +44,6 @@ color:#ffd240;
 #title{
 	font-size: 50pt;
 	color: #7a525a;
-	max-width: 100em;
-	width: 100%;
 	text-align: left;
 	margin-left: 10vw;
 	margin-right: 10vw;
@@ -120,12 +115,9 @@ color:#ffd240;
 
 #press{
 	font-size: 20pt;
-	max-width: 100em;
 	width: 100%;
 	color: #7a525a;
 	text-align: center;
-	margin-left: 10vw;
-	margin-right: 10vw;
 	margin-top: 50px;
 	border-color: #ffd240;
 	border-style: solid;
